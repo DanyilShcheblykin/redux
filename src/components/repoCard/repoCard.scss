@@ -1,0 +1,21 @@
+.cardItem{
+    background-color: rosybrown;
+    border: 1px solid rgb(176, 175, 175);
+    border-radius: 8px;
+    padding: 10px;
+    cursor: pointer;
+}
+.infoBlock{
+    span{
+        margin-right: 10px;
+    }
+}
+.buttonFav{
+    background-color: yellow;
+    font-size: 15px;
+    font-weight: 700;
+    border-radius: 5px;
+    margin-top: 5px;
+    padding: 7px;
+    border: solid yellow;
+}

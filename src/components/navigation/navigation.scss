@@ -1,0 +1,24 @@
+header {
+    top: 0;
+    left: 0;
+    position: fixed;
+    width: 100%;
+    background-color: black;
+
+    .infoBlock {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .pagesBlock {
+        display: flex;
+        width: 350px;
+        justify-content: space-around;
+        align-items: center;
+    }
+
+    .title {
+        color: red;
+    }
+}
